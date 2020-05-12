@@ -1,0 +1,62 @@
+
+#profileDiv{
+    background-color: black;
+    padding-left: 4rem;
+    color: white;
+    
+}
+.lineBet{
+    height:50px;
+    border-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    
+    
+    
+    
+}
+
+.profileTitle{
+    margin-top: 2rem;
+}
+
+
+#nameH{
+    
+    margin: 20px 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+.contantCv{
+    background-color: #f9f9f9;
+}
+.horizenalLine{
+    height:50px;
+    border-color: black
+}
+
+.pEx{
+    position: relative;
+    top: -2rem;
+}
+.fontSub{
+    font-family: 'Lora', serif;
+}
+
+#footer{
+    background-color: #f9f9f9;
+    text-align: center;
+    
+
+}
+.fto{
+    
+    margin-right: 2rem;
+}
+#mail{
+    color: white;
+    text-decoration: underline;
+}
